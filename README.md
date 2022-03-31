@@ -1,2 +1,2 @@
 # WordleAI
-O aplicație care rezolvă jocul "Wordle" optim, folosind Inteligența Artificială.
+An application that solves the "Wordle" game optimally, using Artificial Intelligence.
